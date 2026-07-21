@@ -1,0 +1,13 @@
+{
+  "session_duration_minutes": 1.0,
+  "actual_duration_seconds": 60.080442905426025,
+  "total_focused_seconds": 40.83384037017822,
+  "total_distracted_seconds": 2.006497621536255,
+  "total_fatigued_seconds": 17.163732767105103,
+  "total_absent_seconds": 0.0,
+  "look_away_count": 9,
+  "look_away_total_seconds": 1.9961907863616943,
+  "eye_closure_count": 2,
+  "yawn_count": 55,
+  "focus_score": 73.08570042651769
+}

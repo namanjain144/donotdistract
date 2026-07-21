@@ -1,0 +1,17 @@
+{
+  "baseline_ear": 0.4720314168463354,
+  "closed_ear": 0.11541148767704812,
+  "ear_threshold": 0.2937214522616918,
+  "baseline_mar": 0.3060787089311076,
+  "yawn_mar": 0.26230943864034195,
+  "mar_threshold": 0.2841940737857248,
+  "mar_direction": "decreases",
+  "baseline_pitch": -3.1674670639184805,
+  "baseline_yaw": 0.8951761598702968,
+  "down_pitch": 38.862480041726435,
+  "left_yaw": -62.55645581236247,
+  "right_yaw": 64.57190104814947,
+  "pitch_threshold": 25.217968263386947,
+  "yaw_threshold": 38.07097918333966,
+  "calibrated_at": "2026-07-21T16:21:39"
+}
